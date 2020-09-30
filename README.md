@@ -1,16 +1,18 @@
 
 # ✨Hello I'm Laura!
-<img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
+<img height="30%" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
 <br />
 <br />
 
-I'm **Laura Lujan**, 👩‍💻 an aspiring Full Stack Developer, former logistics engineer from Mexico, I completed a 12 weeks Full-stack **JavaScript** bootcamp (Check my final project [here](https://github.com/laulujan/Medics)). 
+I'm **Laura Lujan**, 👩‍💻 an aspiring Full Stack Developer, former logistics engineer from Mexico, I completed a 12 weeks Full-stack **JavaScript** bootcamp (Check my final project [here](https://github.com/laulujan/Medics)).
+<br />
 I am currently learning, practicing and having fun with The Odin Project 💛.
+<br />
 I'm looking 🔍 for my first opportunity to join a RL project and be a part of an awesome team 🌟!
-
+<br />
 I love Yoga 🤸‍♀️ Music 🎶 Movies 📽 and Books 📚.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" />
+  <img align="right" height="50%" alt="GIF" src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" />
   
 **Let's Connect:**
 
