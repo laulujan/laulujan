@@ -1,6 +1,6 @@
 
 # ✨Hello I'm Laura!
-<img height="30%" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
+<img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
 <br />
 <br />
 
@@ -12,7 +12,7 @@ I'm looking 🔍 for my first opportunity to join a RL project and be a part of 
 <br />
 I love Yoga 🤸‍♀️ Music 🎶 Movies 📽 and Books 📚.
 
-  <img align="right" height="50%" alt="GIF" src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" />
   
 **Let's Connect:**
 
@@ -24,12 +24,12 @@ I love Yoga 🤸‍♀️ Music 🎶 Movies 📽 and Books 📚.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
