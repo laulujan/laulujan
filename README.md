@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**laulujan/laulujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨Hello I'm Laura!
+<img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
+<br />
+<br />
 
-Here are some ideas to get you started:
+I'm **Laura Lujan**, 👩‍💻 an aspiring Full Stack Developer, former logistics engineer from Mexico, I completed a 12 weeks Full-stack **JavaScript** bootcamp (Check my final project [here](https://github.com/laulujan/Medics)). 
+I am currently learning, practicing and having fun with The Odin Project 💛.
+I'm looking 🔍 for my first opportunity to join a RL project and be a part of an awesome team 🌟!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love Yoga 🤸‍♀️ Music 🎶 Movies 📽 and Books 📚.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" />
+  
+**Let's Connect:**
+
+-  <img src="https://api.iconify.design/simple-icons:freecodecamp.svg"/> Check out my FreeCodeCamp [Profile](https://www.freecodecamp.org/lauralujan)
+-  <img alt="Twitter" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Find me on [LinkedIn](https://www.linkedin.com/in/lauralujanhdez/)
+- 🤝 If your up for a study group hmu so we can help each other 
+- ⚡️ Ask me about anything 💬 I am happy to help;
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+⭐️ Check my what I'm currently working on [laulujan](https://github.com/laulujan?tab=repositories)
