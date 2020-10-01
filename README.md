@@ -17,7 +17,7 @@ I love Yoga 🤸‍♀️ Music 🎶 Movies 📽 and Books 📚.
 **Let's Connect:**
 
 -  <img src="https://api.iconify.design/simple-icons:freecodecamp.svg"/> Check out my FreeCodeCamp [Profile](https://www.freecodecamp.org/lauralujan)
--  <img alt="Twitter" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Find me on [LinkedIn](https://www.linkedin.com/in/lauralujanhdez/)
+-  <img width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Find me on [LinkedIn](https://www.linkedin.com/in/lauralujanhdez/)
 - 🤝 If your up for a study group hmu so we can help each other 
 - ⚡️ Ask me about anything 💬 I am happy to help;
 
