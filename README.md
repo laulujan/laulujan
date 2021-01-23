@@ -1,8 +1,5 @@
 
 # ✨Hello I'm Laura!
-<img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif"/>
-<br />
-<br />
 
 I'm **Laura Lujan**, 👩‍💻 an aspiring Full Stack Developer, former logistics engineer from Mexico, I completed a 12 weeks Full-stack **JavaScript** bootcamp (Check my final project [here](https://github.com/laulujan/Medics)).
 <br />
